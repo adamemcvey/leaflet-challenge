@@ -1,0 +1,44 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+legend {
+  background-color: gray;
+  color: white;
+  padding: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
+table td#cell1 {
+  background-color: #FF5733;
+}
+
+table td#cell2 {
+  background-color: #FF9C33;
+}
+
+table td#cell3 {
+  background-color: #F0FF33;
+}
+
+table td#cell4 {
+  background-color: #A8FF33;
+}
